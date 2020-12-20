@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/2774845/75100245-79e51600-55cb-11ea-8ea3-2b12063e41fa.png"/>
-  <br/>
-</p>
 
 ## Midi bricks POC with Tauri
 
@@ -23,9 +19,3 @@ In main folder run `npm i` or `yarn`
 After installation is done run `npm start`
 
 Then in another terminal tab/window run `tauri dev`
-
-## Demo 
-https://github.com/mdtanrikulu/midi-bricks-tauri/releases/tag/demo
-
-## Preview
-![midi-bricks-tauri](https://user-images.githubusercontent.com/2774845/75100387-44d9c300-55cd-11ea-90fa-83a516183531.gif)
