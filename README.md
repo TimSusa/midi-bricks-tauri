@@ -3,7 +3,7 @@
   <br/>
 </p>
 
-## React Tauri
+## Midi bricks POC with Tauri
 
 It's an example of Tauri based Cross-Platform React Application. Way smaller than Electron. It uses system web engines to render, backend is based on Rust.
 
